@@ -1,0 +1,84 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Unity Cache
+[Tt]exture2D/
+UserSettings/
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# =============== #
+# Visual Studio   #
+# =============== #
+
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.unityproj
+*.booproj
+*.suo
+*.tmp
+*.svd
+*.pdb
+*.mdb
+
+# Rider
+.idea/
+*.unityproj
+*.iml
+
+# =============== #
+# OS Specific     #
+# =============== #
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# =============== #
+# Builds          #
+# =============== #
+
+*.apk
+*.aab
+*.app
+*.exe
+*.ipa
+
+# =============== #
+# Unity Collab    #
+# =============== #
+
+.collabignore
+
+# =============== #
+# Crash Reports   #
+# =============== #
+
+sysinfo.txt
+
+# =============== #
+# Packages        #
+# =============== #
+
+# Keep packages.json but ignore package cache
+/Packages/*-lock.json
+/Packages/manifest.json
+/Packages/packages-lock.json
